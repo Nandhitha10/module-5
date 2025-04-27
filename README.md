@@ -29,11 +29,8 @@ int main() {
 
 ```
 ## OUTPUT
-```	       	
-Enter length of the rectangle: 5
-Enter width of the rectangle: 3
-The area of the rectangle is: 15.00
-```
+![image](https://github.com/user-attachments/assets/e12b496e-f12f-4528-9070-433c597972cb)
+
 ## RESULT
 Thus the program to find area of rectangle using pointer has been executed successfully
  
@@ -71,10 +68,8 @@ int main() {
 WELCOME
 ```
 ## OUTPUT
-```
-WELCOME
+![image](https://github.com/user-attachments/assets/64ec8017-4dcf-41ce-ba8a-f84a4a9ce7be)
 
-```
 ## RESULT
 Thus the program to print 'WELCOME' using malloc() and free() has been executed successfully
  
@@ -120,16 +115,8 @@ int main() {
 }
 ```
 ## OUTPUT
-```
-Enter student's name: John Doe
-Enter student's roll number: 123
-Enter student's marks: 85.5
+![image](https://github.com/user-attachments/assets/f07cba70-068a-4d3f-b8af-e0a989db344c)
 
-Student Information:
-Name: John Doe
-Roll Number: 123
-Marks: 85.50
-```
 ## RESULT
 
 Thus the program to store the student information and display it using structure has been executed successfully
@@ -198,48 +185,8 @@ int main()
 }
 ```
  ## OUTPUT
-```
- Enter details for Employee 1
-Enter name: John Doe
-Enter ID: 101
-Enter basic salary: 25000
+![image](https://github.com/user-attachments/assets/781823d2-e8e2-4273-a33b-b47c7bb0440f)
 
-Enter details for Employee 2
-Enter name: Jane Smith
-Enter ID: 102
-Enter basic salary: 30000
-
-Enter details for Employee 3
-Enter name: Alice Brown
-Enter ID: 103
-Enter basic salary: 22000
-
-Employee Details and Gross Salary:
-
-Employee 1
-Name: John Doe
-ID: 101
-Basic Salary: 25000.00
-HRA: 5000.00
-DA: 2500.00
-Gross Salary: 32500.00
-
-Employee 2
-Name: Jane Smith
-ID: 102
-Basic Salary: 30000.00
-HRA: 6000.00
-DA: 3000.00
-Gross Salary: 39000.00
-
-Employee 3
-Name: Alice Brown
-ID: 103
-Basic Salary: 22000.00
-HRA: 4400.00
-DA: 2200.00
-Gross Salary: 28600.00
-```
 ## RESULT
 
 Thus the C program to read and store the data of 3 employees and calculate their Gross Salary using the concept of structure
@@ -324,25 +271,8 @@ int main() {
 }
 ```
 ## OUTPUT
-```
-Enter details for student 1
-Enter name: John
-Enter roll number: 101
-Enter marks for 5 subjects: 70 85 92 70 87
+![image](https://github.com/user-attachments/assets/bf7a55ab-cc11-4cab-95d4-43f0940c1ada)
 
-Enter details for student 2
-Enter name: Alice
-Enter roll number: 102
-Enter marks for 5 subjects: 90 80 88 75 90
-
-Student 1:
-Total marks: 374
-Average marks: 74.80
-
-Student 2:
-Total marks: 383
-Average marks: 76.60
-```
 ## RESULT
 
 Thus the C program to calculate the total and average of student using structure has been executed successfully.
